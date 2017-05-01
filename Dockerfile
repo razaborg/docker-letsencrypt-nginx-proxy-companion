@@ -1,4 +1,4 @@
-FROM alpine:3.3
+FROM armbuild/alpine
 
 MAINTAINER Yves Blusseau <90z7oey02@sneakemail.com> (@blusseau)
 
